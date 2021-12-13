@@ -1,0 +1,6 @@
+com\nagarro\springboot\service\EmployeeServiceImpl.class
+com\nagarro\springboot\model\Employee.class
+com\nagarro\springboot\service\EmployeeService.class
+com\nagarro\springboot\repository\EmployeeRepository.class
+com\nagarro\springboot\SpringbootThymeleafCrudWebAppApplication.class
+com\nagarro\springboot\controller\EmployeeController.class
